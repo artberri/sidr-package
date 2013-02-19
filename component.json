@@ -7,7 +7,7 @@
     "name": "Alberto Varela",
     "site": "http://albertovarelasanchez.com/"
   },
-  "main": ["./jquery.sidr.min.js"],
+  "main": ["./jquery.sidr.min.js", "./stylesheets/jquery.sidr.dark.css"],
   "keywords": [ "jquery", "plugin", "responsive" ],
   "dependencies": {
     "jquery": ">=1.4.3"
